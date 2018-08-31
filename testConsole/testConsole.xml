@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>testConsole</name>
+    </assembly>
+    <members>
+        <member name="M:testConsole.Program.askValue(System.Boolean)">
+            <summary>
+            Fonction qui demande une valeur à l'utilisateur en testant les erreurs
+             </summary>
+        </member>
+        <member name="M:testConsole.Program.calcul(System.Single,System.Single,System.Char)">
+            <summary>
+            Fonction qui effectue un calcul avec deux opérants et un opérateur
+             </summary>
+        </member>
+        <member name="M:testConsole.Program.Main(System.String[])">
+            <summary>
+            Cette fonction est défini comme le point d'entrée
+            </summary>
+        </member>
+    </members>
+</doc>
